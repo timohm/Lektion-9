@@ -13,14 +13,14 @@ body {
 .text {
   display: flex;
   justify-content: center;
-  margin-top: 5vh;
+  margin-top: 10vh;
 }
 
 .imgdiv {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 5vh;
+    margin-top: 10vh;
 }
 
 .image {
