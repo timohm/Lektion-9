@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(73, 73, 73);
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  margin-top: 5vh;
+}
+
+.imgdiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  border-radius: 50%;
+  border-bottom: 10vh;
+}
